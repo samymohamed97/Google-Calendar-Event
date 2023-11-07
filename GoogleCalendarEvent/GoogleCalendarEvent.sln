@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCalendarEvent", "GoogleCalendarEvent\GoogleCalendarEvent.csproj", "{BE474AD9-BB65-4FE0-86F3-06A7E6612A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE474AD9-BB65-4FE0-86F3-06A7E6612A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE474AD9-BB65-4FE0-86F3-06A7E6612A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE474AD9-BB65-4FE0-86F3-06A7E6612A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE474AD9-BB65-4FE0-86F3-06A7E6612A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2917447-B803-4597-A60A-ED0ABE4B53BD}
+	EndGlobalSection
+EndGlobal

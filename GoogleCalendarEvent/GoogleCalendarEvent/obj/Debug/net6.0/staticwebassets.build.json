@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rUpKzBvjIVPaCmls6HhMEXHpErjtDLBSsDy8iA0gqWM=",
+  "Source": "GoogleCalendarEvent",
+  "BasePath": "_content/GoogleCalendarEvent",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
